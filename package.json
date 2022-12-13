@@ -1,6 +1,6 @@
 {
-  "homepage": "http://mohammedmagdyismael.github.io/CarousalGallery",
-  "name": "carousal-gallery",
+  "homepage": "http://mohammedmagdyismael.github.io/CarouselCards",
+  "name": "carousal-cards",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
