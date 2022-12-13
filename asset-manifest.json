@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CarousalGallery/static/css/main.9aa4e6d0.chunk.css",
+    "main.js": "/CarousalGallery/static/js/main.07c87bf4.chunk.js",
+    "main.js.map": "/CarousalGallery/static/js/main.07c87bf4.chunk.js.map",
+    "runtime-main.js": "/CarousalGallery/static/js/runtime-main.cf964776.js",
+    "runtime-main.js.map": "/CarousalGallery/static/js/runtime-main.cf964776.js.map",
+    "static/js/2.63fd1ef6.chunk.js": "/CarousalGallery/static/js/2.63fd1ef6.chunk.js",
+    "static/js/2.63fd1ef6.chunk.js.map": "/CarousalGallery/static/js/2.63fd1ef6.chunk.js.map",
+    "index.html": "/CarousalGallery/index.html",
+    "precache-manifest.a0060c7f032133708fe7e32e6c4b00e1.js": "/CarousalGallery/precache-manifest.a0060c7f032133708fe7e32e6c4b00e1.js",
+    "service-worker.js": "/CarousalGallery/service-worker.js",
+    "static/css/main.9aa4e6d0.chunk.css.map": "/CarousalGallery/static/css/main.9aa4e6d0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf964776.js",
+    "static/js/2.63fd1ef6.chunk.js",
+    "static/css/main.9aa4e6d0.chunk.css",
+    "static/js/main.07c87bf4.chunk.js"
+  ]
+}
